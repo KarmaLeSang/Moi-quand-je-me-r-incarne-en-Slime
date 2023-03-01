@@ -4,5 +4,16 @@
   "artist": "Taiki Kawakami",
   "author": "Fuze / Mitz Vah",
   "cover": "https://reaperscans.fr/wp-content/uploads/2022/03/Cover-22-Edition-Limite-Tensura-720x1024.png",
-  "chapters": {}
+  "chapters": {
+    "104": {
+      "title": "104",
+      "volume": "23",
+      "last_updated": "1677668302",
+      "groups": {
+        "Isekai Monarchy": [
+          "https://imgur.com/a/GUabb9y"
+        ]
+      }
+    }
+  }
 }
